@@ -1,7 +1,7 @@
 # Python
-![Python](pngegg.png)# py
-
 ===============================
+
+![Python](python.png)
 Errors
 ---------------------
 
